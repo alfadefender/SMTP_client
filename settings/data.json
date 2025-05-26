@@ -1,0 +1,8 @@
+{
+  "to_addrs": ["example_rcpt@yandex.ru"],
+  "message": {
+    "subject": "Hello, World!",
+    "message_file_path": "msg.txt",
+    "attachment_folder_path": "attachments"
+  }
+}

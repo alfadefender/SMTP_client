@@ -1,0 +1,4 @@
+{
+    "smtp_host": "smtp.yandex.ru",
+    "smtp_port": 465
+}
